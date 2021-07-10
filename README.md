@@ -2,16 +2,12 @@ multilingual TVRetrieval
 =====
 
 mTVR: Multilingual Moment Retrieval in Videos. ACL 2021
+
 [Jie Lei](http://www.cs.unc.edu/~jielei/), 
 [Tamara L. Berg](http://tamaraberg.com/), [Mohit Bansal](http://www.cs.unc.edu/~mbansal/)
 
 
-Convolutional Start-End (ConvSE) detector, making the moment predictions efficient and accurate.
-The ConvSe module is inspired by edge detectors in image
-processing. It learns to detect start (up) and end (down) edges in the 1D query-clip similarity 
-signals with two trainable 1D convolution filters, and is the core of XML's high accuracy 
-and efficiency.
-
+We introduce MTVR, a large-scale multilingual video moment retrieval dataset, containing 218K English and Chinese queries from 21.8K TV show video clips. The dataset is collected by extending the popular TVR dataset (in English) with paired Chinese queries and subtitles. Compared to existing moment retrieval datasets, MTVR is multilingual, larger, and comes with diverse annotations. We further propose mXML, a multilingual moment retrieval model that learns and operates on data from both languages, via encoder parameter sharing and language neighborhood constraints. We demonstrate the effectiveness of mXML on the newly collected MTVR dataset, where mXML outperforms strong monolingual baselines while using fewer parameters. In addition, we also provide detailed dataset analyses and model ablations. 
 
 ## Resources
 - Data: [mTVR dataset](./data/)
