@@ -15,7 +15,7 @@ and efficiency.
 
 ## Resources
 - Data: [mTVR dataset](./data/)
-- CodaLab Submission: TODO
+- CodaLab Submission: [standalone_eval/README.md](standalone_eval/README.md)
 
 
 ## Getting started
