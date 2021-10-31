@@ -1,7 +1,7 @@
 multilingual TVRetrieval
 =====
 
-[mTVR: Multilingual Moment Retrieval in Videos](https://arxiv.org/abs/2108.00061) ACL 2021
+[mTVR: Multilingual Moment Retrieval in Videos](https://arxiv.org/abs/2108.00061), ACL 2021
 
 [Jie Lei](http://www.cs.unc.edu/~jielei/), 
 [Tamara L. Berg](http://tamaraberg.com/), [Mohit Bansal](http://www.cs.unc.edu/~mbansal/)
